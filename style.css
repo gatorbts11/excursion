@@ -5,11 +5,21 @@ body {
 }
 
 .header--main  {
-	font-family: verdana;
 	color: white;
 	font-weight: normal;
 	font-size: 50px;
-	text-align: center;
+}
+
+.header--secondary {
+	color: white;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.header--sub-header {
+	color: gray;
+	font-size: 21px;
+
 }
 
 .link--cta {
